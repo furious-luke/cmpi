@@ -21,3 +21,17 @@
 *.i*86
 *.x86_64
 *.hex
+
+# My stuff
+**~
+**.pyc
+config.log
+build/*
+dist/*
+*.egg-info
+.use.db
+**.o
+**.so
+**.a
+doc/html
+doc/latex
